@@ -1,0 +1,1 @@
+# Aula02-algoritmos-e-pensamentos-computacionais
